@@ -21,4 +21,3 @@ public class sortArray {
     
 }
 
-//added more comments
